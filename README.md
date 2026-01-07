@@ -10,27 +10,27 @@ Também atuo como Desenvolvedor Mobile, utilizando Dart e Flutter, com foco na c
 🧠 Conhecimentos Técnicos
 🌐 Desenvolvimento Web
 
-HTML5 (estrutura semântica)
-CSS3 (layouts responsivos e estilização)
-JavaScript (DOM, lógica e interatividade)
-PHP (backend e lógica de negócio)
-Node.js (APIs e aplicações server-side)
+HTML5 (estrutura semântica) - 
+CSS3 (layouts responsivos e estilização) - 
+JavaScript (DOM, lógica e interatividade) - 
+PHP (backend e lógica de negócio) - 
+Node.js (APIs e aplicações server-side) - 
 MySQL (modelagem, consultas e integridade relacional)
 
 📱 Desenvolvimento Mobile
 
-Dart
-Flutter
-Aplicações multiplataforma (Android e iOS)
-Consumo de APIs REST
-Gerenciamento de estado e componentes (widgets)
+Dart - 
+Flutter - 
+Aplicações multiplataforma (Android e iOS) - 
+Consumo de APIs REST - 
+Gerenciamento de estado e componentes (widgets) - 
 
 🛠️ Suporte e Infraestrutura
 
-Help Desk e suporte ao usuário
-Diagnóstico e manutenção de hardware e software
-Configuração básica de redes
-Noções de cibersegurança e boas práticas de segurança da informação
+Help Desk e suporte ao usuário - 
+Diagnóstico e manutenção de hardware e software - 
+Configuração básica de redes - 
+Noções de cibersegurança e boas práticas de segurança da informação 
 
 🎓 Formação Acadêmica
 
@@ -38,15 +38,16 @@ Técnico Integrado em Informática para Internet
 📍 Instituto Federal Catarinense — Campus Rio do Sul
 
 Formação com base sólida em:
-Programação e desenvolvimento web
-Banco de dados
-Redes de computadores
+
+Programação e desenvolvimento web - 
+Banco de dados - 
+Redes de computadores - 
 Infraestrutura e fundamentos de TI
 
 📂 Objetivo deste GitHub
 
 Este repositório tem como finalidade:
-Armazenar projetos pessoais e acadêmicos
-Documentar estudos e experimentos técnicos
-Praticar versionamento com Git e GitHub
-Demonstrar evolução técnica e organização de código
+Armazenar projetos pessoais e acadêmicos - 
+Documentar estudos e experimentos técnicos - 
+Praticar versionamento com Git e GitHub - 
+Demonstrar evolução técnica e organização de código - 
